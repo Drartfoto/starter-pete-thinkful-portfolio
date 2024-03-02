@@ -76,3 +76,34 @@ footer {
 hr {
   border: 1px solid black;
 }
+
+.container {
+  display: flex;
+  align-items: center;
+  justify-content: space-evenly;
+  padding: 10px 200px;
+}
+
+.about-secion {
+  display: flex;
+  text-align: justify;
+}
+
+.Pete-Bio {
+  display: flex;
+  padding: 1px ;
+  flex-direction: column;
+}
+
+.Pete-Project {
+  display: flex;
+  flex-direction: row;
+}
+
+.description {
+  font-size: 14px;
+}
+
+
+
+

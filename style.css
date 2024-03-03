@@ -19,6 +19,10 @@ h3 {
 /* Header */
 header {
   text-align: center;
+  padding: 10px 200px;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
 }
 
 /* Containers */
@@ -51,8 +55,13 @@ a:hover {
   color: #f77f00;
 }
 
+nav {
+  display: flex;
+}
+
 nav a {
   padding-left: 20px;
+  margin-right: 20px;
 }
 
 /* Images */
@@ -77,12 +86,6 @@ hr {
   border: 1px solid black;
 }
 
-.container {
-  display: flex;
-  align-items: center;
-  justify-content: space-evenly;
-  padding: 10px 200px;
-}
 
 .about-secion {
   display: flex;

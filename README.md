@@ -8,11 +8,11 @@
 <p>3. <a href="#stylesheet">StyleSheet</a></p>
 <p>4. <a href="#sections">Sections</a></p>
     <ul>
-        <li><a href="header">Header</a></li>
-        <li><a href="about-section">About Section</a></li>
-        <li><a href="portfolio-section">Portfolio Section</a></li>
-        <li><a href="contact section">Contact Section</a></li>
-        <li><a href="footer">Footer</a></li>
+        <li><a href="#header">Header</a></li>
+        <li><a href="#about-section">About Section</a></li>
+        <li><a href="#portfolio-section">Portfolio Section</a></li>
+        <li><a href="#contact section">Contact Section</a></li>
+        <li><a href="#footer">Footer</a></li>
     </ul>
 
 <h2>Introduction</h2>
